@@ -12,6 +12,7 @@ I already have an api with all my contacts, so lets code, for this web scraping 
 
 # Interface
 It was my first experience using interface in python, and with PySimpleGUI was amazing, the code was very simple and intuitive.
+
 ![Screenshot](login.png) ![Screenshot](add_contact.png)
 
 # Functions
@@ -19,6 +20,9 @@ The automation have two functions. First add all contacts of your sheets using g
 
 # Code
 First sorry for by bad english, all the code and comments are in pt-br.
+
+# Sheet
+Example of sheet, in the red is the sheet key to input in your code and in the blue is a example of your list of ids.
 
 # My experience
 3 months using python to small projects and web scraping.
