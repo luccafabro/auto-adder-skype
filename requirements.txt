@@ -1,0 +1,3 @@
+pip install Selenium
+pip install gspread
+pip install PySimpleGUIQt
