@@ -24,6 +24,8 @@ First sorry for by bad english, all the code and comments are in pt-br.
 # Sheet
 Example of sheet, in the red is the sheet key to input in your code and in the blue is a example of your list of ids.
 
+![Screenshot](sheet.png)
+
 # My experience
 3 months using python to small projects and web scraping.
 
